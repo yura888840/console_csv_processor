@@ -1,4 +1,5 @@
-[![Build Status](https://travis-ci.org/yura888840/console_csv_processor.svg?branch=master)](https://travis-ci.org/yura888840/console_csv_processor)
+[![Build Status](https://travis-ci.org/yura888840/console_csv_processor.svg?branch=master)](https://travis-ci.org/yura888840/console_csv_processor)[![codecov](https://codecov.io/gh/yura888840/console_csv_processor/branch/master/graph/badge.svg)](https://codecov.io/gh/yura888840/console_csv_processor)
+
 # Installation
 
 `composer install`
