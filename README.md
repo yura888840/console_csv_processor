@@ -9,9 +9,9 @@ Feel free to change output file value
 # Usage
 
 ## For help
-`php console.php --help``
+`php console.php --help`
 
-##For processing
+## For processing
 `php console.php -a <action> -f <filename.csv>`
 
 Where action can be : plus, minus, divide or multply
