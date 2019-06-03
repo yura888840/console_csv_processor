@@ -15,4 +15,4 @@ before_script:
   - cp phpunit.xml.dist phpunit.xml
 
 script:
-  - SYMFONY_DEPRECATIONS_HELPER='/^UserControllerTest::testHasRouteGetV1User$/' bin/phpunit --coverage-clover=coverage.xml
+  - vendor/bin/simple-phpunit --coverage-clover=coverage.xml
